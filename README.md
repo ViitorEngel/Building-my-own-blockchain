@@ -4,5 +4,3 @@ I'm basically following [this](https://hackernoon.com/learn-blockchains-by-build
 tutorial step by step.
 
 This project was really fun to make, and was great for exercising OOP and learning HTTP.
-
-I still need to finish the consensus part of the code, though.
